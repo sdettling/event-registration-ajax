@@ -1,0 +1,9 @@
+{
+  "name": "event-registration-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
